@@ -60,6 +60,4 @@ console.log("");
 console.log("");
 
 
-
-
 // BONUS: Use readline-sync to prompt the user to enter the number of astronauts going on the mission.
